@@ -1,0 +1,15 @@
+﻿  CalculatorFunctions.cpp
+c:\users\student\desktop\warmup\warmup\calculatorfunctions.cpp(11): error C2065: 'cout': undeclared identifier
+c:\users\student\desktop\warmup\warmup\calculatorfunctions.cpp(12): error C2065: 'cout': undeclared identifier
+c:\users\student\desktop\warmup\warmup\calculatorfunctions.cpp(18): error C2065: 'cout': undeclared identifier
+c:\users\student\desktop\warmup\warmup\calculatorfunctions.cpp(19): error C2065: 'cout': undeclared identifier
+c:\users\student\desktop\warmup\warmup\calculatorfunctions.cpp(25): error C2065: 'cout': undeclared identifier
+c:\users\student\desktop\warmup\warmup\calculatorfunctions.cpp(26): error C2065: 'cout': undeclared identifier
+c:\users\student\desktop\warmup\warmup\calculatorfunctions.cpp(33): error C2065: 'cout': undeclared identifier
+c:\users\student\desktop\warmup\warmup\calculatorfunctions.cpp(34): error C2065: 'cout': undeclared identifier
+  main.cpp
+c:\users\student\desktop\warmup\warmup\main.cpp(34): error C3861: 'addFunction': identifier not found
+c:\users\student\desktop\warmup\warmup\main.cpp(37): error C3861: 'subFunction': identifier not found
+c:\users\student\desktop\warmup\warmup\main.cpp(40): error C3861: 'mulFunction': identifier not found
+c:\users\student\desktop\warmup\warmup\main.cpp(43): error C3861: 'divFunction': identifier not found
+  Generating Code...
