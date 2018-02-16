@@ -21,9 +21,15 @@
     <ClCompile Include="CalculatorFunctions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FightFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Calculator.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Fight.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

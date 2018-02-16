@@ -7,5 +7,5 @@ public:
 	void subFunction(float first, float second);
 	void mulFunction(float first, float second);
 	void divFunction(float first, float second);
-
+	void calcProgram();
 };
